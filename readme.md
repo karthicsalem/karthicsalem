@@ -8,7 +8,7 @@
 
 This is Karthic Narayanan, an aspiring Data Scientist.
 
-- :seedling: Languages - C++ , JAVA , SQL , Python
+- :seedling: Languages - Python , SQL
 - :seedling: Tools/Libraries/Frameworks - Tableau, Pandas, NumPy, Matplotlib, Scikit Learn, Seaborn.
 - :seedling: Areas of Interest - Machine Learning, Data Science/Analysis
 
